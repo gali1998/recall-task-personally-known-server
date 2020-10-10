@@ -1,0 +1,26 @@
+{
+  "name": "recall-task-personally-known-server",
+  "version": "1.0.0",
+  "description": "recall-task-personally-known-server",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gali1998/recall-task-personally-known-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gali1998/recall-task-personally-known-server/issues"
+  },
+  "homepage": "https://github.com/gali1998/recall-task-personally-known-server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.8"
+  }
+}
